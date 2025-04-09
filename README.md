@@ -1,4 +1,4 @@
-![block diagram](https://i.ibb.co/dJwpgKDP/new-img.png)
+![architecture](assets/architecture.png)
 
 # Go Server-Peer Basic Setup
 
