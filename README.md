@@ -13,10 +13,8 @@ A minimal implementation of a TCP server with peer connection handling in Go. Th
 - Structured logging with `slog`
 
 ## Project Structure
-.
 ├── main.go # Server implementation and main entry point
 ├── peer.go # Peer connection handling logic
-└── README.md # This documentation
 
 
 ## Code Overview
